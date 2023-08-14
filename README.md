@@ -3,7 +3,7 @@
 
 Interaction design project to enable users to control media by performing hand gestures. 
 
-<p align="center">
+<p>
   <img src="static/assets/sample.gif" alt="drawing" width="500px"/>
 </p>
 
@@ -26,7 +26,7 @@ With a total of six operations, we identified three pairs that were opposites of
 1. Comfortable and Non Fatiguing 
 2. Natural Mappings: Gestures mirror user's expectations based on the real world.   
 
-<p align="center">
+<p>
   <img src="static/assets/gesturemapping.png" alt="drawing" width="600px"/>
 </p>
 
@@ -35,10 +35,11 @@ With a total of six operations, we identified three pairs that were opposites of
 2. Identify closed and open fingers based on joint positions.
 3. Each gesture is modeled as a funtion of closed fingers *(Gesture Equations)*
 
-<figure align="center">
+<figure>
   <img src="static/assets/gestureLabel.png" alt="drawing" width="500px"/>
   <figcaption>ex. <i>Play = Open Hand - "Pointer" - "Middle" - "Ring"</i></figcaption>
 </figure>
 
 
+#### Further Reading
 [Natural Mappings and Stimulus-Response Compatibility in User Interface Design](https://www.nngroup.com/articles/natural-mappings/)
